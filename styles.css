@@ -1,0 +1,21 @@
+.center {
+	text-align: center;
+	
+}
+
+.center_image {
+	display: block;
+	margin: auto;
+	width: 100%;
+}
+
+body {
+	background-color: #000168;
+	color: #dddeff;
+	width: 500px;
+	margin: auto;
+}
+
+#bio {
+	color: #ff72e2;
+}
