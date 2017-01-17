@@ -9,13 +9,26 @@
 	width: 100%;
 }
 
-body {
-	background-color: #000168;
-	color: #dddeff;
-	width: 500px;
-	margin: auto;
-}
-
 #bio {
 	color: #ff72e2;
+}
+
+body {
+	background-color: #191919;
+	color: #cecece;
+	width: 500px;
+	margin: auto;
+	font-size: 1.125rem;
+}
+
+a:link {
+	color: #8e8e8e;
+}
+
+a:visited {
+	color: #606060;
+}
+
+a:hover, a:active {
+	color: #fff600;
 }
